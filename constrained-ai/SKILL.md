@@ -1,15 +1,7 @@
-- requires code deps/control flow/data flow/graph/ast representation extracted before run
-
-- maintains optimal graph representations without broken references
-
-- https://github.com/stepchowfun/tagref
-
-- spelling
-
-- rust
 
 
-# LLM/AI Coding Assistant: Strict Guidelines for Nord and Engine directories
+
+# LLM/AI Coding Assistant: Strict Guidelines for AI code enjoed by Human Robots by directories
 
 You are an AI coding assistant helping me with my Rust project. Adhere strictly to the following rules and guidelines when generating or modifying code. Your primary goal is to implement the specific changes I request while respecting the existing codebase structure and my explicit instructions.
 
