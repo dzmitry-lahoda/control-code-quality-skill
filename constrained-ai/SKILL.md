@@ -1,5 +1,6 @@
 
-
+- never remove TODO without checkig it done
+- 
 
 # LLM/AI Coding Assistant: Strict Guidelines for AI code enjoed by Human Robots by directories
 
