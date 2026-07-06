@@ -70,3 +70,13 @@ If there are no worthwhile reuse opportunities, say so directly.
 If method/function has 3 or more parameters, 
 and there is struct which has similar named fields and same type paramters,
 consider suggesting to replace parameters with struct.
+
+## Enum inverstion
+
+If enum units has 3 or more fields shared, make struct having these 3 fields and make enum variants of less fields count.
+
+If struct and enum variant has 3 of more fields same. 
+
+Lower weight if field names are different.
+
+Weight higher for fields have same types.
