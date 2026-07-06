@@ -11,3 +11,5 @@ Leaning towards strong types, invariants, assertions, proofs, categories;
 information theory, statistics, """physics"" and graphs metaphors to codebase,
 
 Immutable approaches are favored.
+
+Supports only well typed langaged, at least having ADT(with pattern matching).
